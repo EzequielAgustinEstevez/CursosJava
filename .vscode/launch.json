@@ -1,0 +1,126 @@
+{
+    // Utilizar IntelliSense para aprender acerca de los posibles atributos.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos 
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cadena",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Cadena",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CicloFor",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Vectores",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CicloWile",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "CicloWile",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ciclos",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Ciclos",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CiclosDos",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "CiclosDos",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoWhile",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "DoWhile",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Fibonassi",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Fibonassi",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Login",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Login",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Nombres",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Nombres",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Promedio",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Promedio",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Vectores",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Vectores",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Attach)",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": 0
+        }
+    ]
+}
