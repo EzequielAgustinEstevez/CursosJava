@@ -13,7 +13,7 @@ public class Formulario extends JFrame{
     public static void main(String args[]){
         Formulario Formulario1 = new Formulario();
         Formulario1.setBounds(0,0,600,600);
-        Formulario1.setVisible(true);
+        Formulario1.setVisible(false);
         Formulario1.setLocationRelativeTo(null);
     }
 }
