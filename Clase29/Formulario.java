@@ -1,5 +1,7 @@
+import java.awt.Color;
 import javax.swing.*;
 import java.awt.event.*;
+
 
 public class Formulario extends JFrame implements ActionListener{
 
