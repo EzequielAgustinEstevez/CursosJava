@@ -17,7 +17,7 @@ public class Formulario extends JFrame implements ActionListener{
         add(boton2);
         boton2.addActionListener(this);
 
-        boton3 = new JButton("3");
+        boton3 = new JButton("4");
         boton3.setBounds(210, 100, 90, 30);
         add(boton3);
         boton3.addActionListener(this);
@@ -35,7 +35,7 @@ public class Formulario extends JFrame implements ActionListener{
             label1.setText("Has precionado el boton 2"); 
         }
         if(e.getSource() == boton3){
-            label1.setText("Has precionado el boton 3"); 
+            label1.setText("Has precionado el boton 4"); 
         }
     }
     
